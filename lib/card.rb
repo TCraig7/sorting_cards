@@ -6,9 +6,4 @@ class Card
     @value  = value
     @suit   = suit
   end
-
-  def draw_new (new_card)
-    @value  = value
-    @suit   = suit
-  end
 end
